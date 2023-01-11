@@ -1,0 +1,1 @@
+flask,pandas,pyscopg2,datetime,psycopg2,json

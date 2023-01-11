@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<div class="row">
+  <div class="section">
+    <span style="font-size: 32px;font-weight: 1000;">Airbnb Rooms </span> 
+    <span style="font-size: 18px;font-weight: 600;color: #0095ff;">zipcode: &nbsp;&nbsp;{{zipcode}}</span>
+  </div>
+  <div class="section">
+    <span style="font-size: 16px;font-weight: 500;color: #0095ff;">number of rooms:{{count[0]}}</span>&nbsp;&nbsp;
+    <span style="font-size: 16px;font-weight: 500;color: #0095ff;">average prices:${{count[1]}}</span>
+  </div>
+</div>
+<div class="row">
+  <ul class="collection">
+    {% for item in rooms %}
+    <li class="collection-item avatar">
+      <img src="{{ item[3] }}" alt="" class="circle">
+      <a href="{{ url_for('queryRoomDetail', item=item[0]) }}">	
+	    <span class="title">{{ item[1] }}&nbsp;&nbsp;&nbsp;(${{item[4]}})</span>
+      </a>
+      <p>{{ item[2] }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+{% endblock content %}

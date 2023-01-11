@@ -1,0 +1,74 @@
+﻿id,name,year,cuisine,price,zipcode,url
+0,Del Posto,2019,Italian,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/del-posto
+1,Le Grill de Jo毛l Robuchon,2019,French,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-grill-de-joel-robuchon
+2,L'Appart,2019,French,$$$$,10281,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/l-appart
+3,Okuda,2019,Japanese,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/okuda
+4,Wallse,2019,Austrian,$$$$,10014,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/wallse
+5,Jeju Noodle Bar,2019,Korean,$$,10014,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jeju-noodle-bar
+6,Sushi Nakazawa,2019,Japanese,$$$$,10014,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-nakazawa
+7,Kosaka,2019,Japanese,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kosaka
+8,Bastard,2019,Contemporary,$$$$,10013,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/batard
+9,Hirohisa,2019,Japanese,$$$,10012,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/hirohisa
+10,Blue Hill,2019,American,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blue-hill
+11,ZZ's Clam Bar,2019,Seafood,$$$$,10012,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/zz-s-clam-bar
+12,Babbo,2019,Italian,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/babbo
+13,Carbone,2019,Italian,$$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/carbone
+14,Le Coucou,2019,French,$$$,10013,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-coucou
+15,Aldea,2019,Mediterranean,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aldea
+16,Cote,2019,Korean,$$$,10010,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cote
+17,Bouley at Home,2019,Contemporary,$$$,10010,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bouley-at-home
+18,Gotham Bar and Grill,2019,American,$$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gotham-bar-and-grill
+19,Nix,2019,Vegetarian,$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nix
+20,Junoon,2019,Indian,$$$$,10010,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/junoon
+21,NoMad,2019,Contemporary,$$$$,10001,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/nomad
+22,The Musket Room,2019,Contemporary,$$$,10012,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-musket-room
+23,Uncle Boons,2019,Thai,$$,10012,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/uncle-boons
+24,Noda,2019,Japanese,$$$$,10011,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/noda
+25,Gramercy Tavern,2019,Contemporary,$$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gramercy-tavern
+26,The Clocktower,2019,Contemporary,$$$,10010,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-clocktower
+27,Ai Fiori,2019,Italian,$$$$,10018,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ai-fiori
+28,Casa Mono,2019,Spanish,$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-mono
+29,Jewel Bako,2019,Japanese,$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jewel-bako
+30,The River Caf茅,2019,Contemporary,$$$$,11201,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-river-cafe
+31,Bar Uch奴,2019,Japanese,$$$$,10002,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/bar-uchu
+32,Cafe China,2019,Chinese,$$,10016,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-china
+33,Kanoyama,2019,Japanese,$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kanoyama
+34,Contra,2019,Contemporary,$$$$,10002,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/contra
+35,Atomix,2019,Korean,$$$$,10016,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atomix
+36,Kyo Ya,2019,Japanese,$$$,10009,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kyo-ya
+37,Kajitsu,2019,Japanese,$$$,10016,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/kajitsu
+38,Agern,2019,Scandinavian,$$$$,10017,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/agern
+39,Caviar Russe,2019,Contemporary,$$$$,10022,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/caviar-russe
+40,Tuome,2019,Fusion,$$,10009,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tuome
+41,Tempura Matsui,2019,Japanese,$$$$,10158,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/tempura-matsui
+42,Sushi Yasuda,2019,Japanese,$$$$,10017,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-yasuda
+43,Sushi Amane,2019,Japanese,$$$$,10017,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-amane
+44,Cafe Boulud,2019,French,$$$$,10021,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/cafe-boulud
+45,Claro,2019,Mexican,$$,11215,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/claro
+46,Satsuki,2019,Japanese,$$$$,10036,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/satsuki
+47,Sushi Noz,2019,Japanese,$$$$,10075,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-noz
+48,Sushi Inoue,2019,Japanese,$$$$,10027,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-inoue
+49,Meadowsweet,2019,Mediterranean,$$$,11212,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/meadowsweet
+50,Casa Enrique,2019,Mexican,$$,11101,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/casa-enrique
+51,Peter Luger,2019,Steakhouse,$$$$,11211,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/peter-luger
+52,Oxomoco,2019,Mexican,$$$,11222,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/oxomoco
+53,The Finch,2019,American,$$$,11238,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-finch
+54,Faro,2019,American,$$,11237,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/faro
+55,Jungsik,2019,Korean,$$$$,10013,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jungsik
+56,Atera,2019,Contemporary,$$$$,10013,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/atera
+57,Jean-Georges,2019,Contemporary,$$$$,10023,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/jean-georges
+58,Marea,2019,Seafood,$$$$,10019,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/marea
+59,Gabriel Kreuther,2019,Contemporary,$$$$,10036,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/gabriel-kreuther
+60,Ichimura at Uch奴,2019,Japanese,$$$$,10002,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ichimura-at-uchu
+61,Sushi Ginza Onodera,2019,Japanese,$$$$,10017,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sushi-ginza-onodera
+62,Ko,2019,Contemporary,$$$$,10003,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/ko
+63,The Modern,2019,Contemporary,$$$$,10019,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-modern
+64,Aquavit,2019,Scandinavian,$$$$,10022,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aquavit
+65,Daniel,2019,French,$$$$,10065,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/daniel
+66,Aska,2019,Scandinavian,$$$$,11249,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/aska
+67,Blanca,2019,Contemporary,$$$$,11206,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/blanca
+68,Masa,2019,Japanese,$$$$,10019,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/masa
+69,Per Se,2019,Contemporary,$$$$,10019,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+70,Le Bernardin,2019,Seafood,$$$$,10019,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-bernardin
+71,Eleven Madison Park,2019,Contemporary,$$$$,10010,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/eleven-madison-park
+72,Chef's Table at Brooklyn Fare,2019,Contemporary,$$$$,10018,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/chef-s-table-at-brooklyn-fare

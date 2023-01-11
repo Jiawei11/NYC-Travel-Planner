@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<div class="row">
+  <div class="section">
+    <span style="font-size: 32px;font-weight: 1000;">Crime Reports </span> 
+    <span style="font-size: 18px;font-weight: 600;color: #0095ff;">zipcode: &nbsp;&nbsp;{{zipcode}}</span>
+  </div>
+  <div class="section">
+    <span style="font-size: 16px;font-weight: 500;color: #0095ff;">number of crime reports:{{count[0]}}</span>&nbsp;&nbsp;
+  </div>
+</div>
+<div class="row">
+  <table  class="striped">
+    <thead>
+      <tr>
+  <th>Case num</th>
+  <th>Crime type</th>
+      </tr>
+    </thead>
+  {% for item in rows %}
+    <tr>
+    <td>{{ item[0] }} </td>
+    <td>{{ item[1] }} </td>
+  </tr>
+  {% endfor %}
+  </table>
+
+</div>
+
+{% endblock content %}

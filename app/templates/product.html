@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+
+
+{% block content %}
+
+<div class="row">
+
+  
+  <h1> {{ item[0] }}</h1>
+
+  
+  <div class="col s6">
+    <div class="section">
+      <h5 style="font-weight: 1000;">Description</h5>
+      {{ item[1] }}
+    </div>
+    <div class="divider"></div>
+    <div class="section">
+      <h5 style="font-weight: 1000;">Host</h5>
+      <ul>
+        <li><a style="font-weight: 600;">Host</a>: {{item[10]}}</li>
+        <li><a style="font-weight: 600;">Since</a>: {{item[11]}}</li>
+        <li><a style="font-weight: 600;">Host response time</a>: {{item[23]}}</li>
+        <li><a style="font-weight: 600;">Host response rate</a>: {{item[24]}}</li>
+        <li><a style="font-weight: 600;">Host acceptance rate</a>: {{item[25]}}</li>
+      </ul>
+    </div>
+    <div class="divider"></div>
+    <div class="section">
+      <h5 style="font-weight: 1000;">Room Detail</h5>
+      <ul>
+        <li><a style="font-weight: 600;">Price</a>: ${{item[4]}}</li>
+        <li><a style="font-weight: 600;">Room type</a>: {{item[6]}}</li>
+        <li><a style="font-weight: 600;">Bed number: {{item[26]}}</li>
+        <li><a style="font-weight: 600;">Accommodates: {{item[27]}}</li>
+        <li><a style="font-weight: 600;">Bedroom number: {{item[8]}}</li>
+        <li><a style="font-weight: 600;">Bathroom</a></a>: {{item[7]}}</li>
+        <li><a style="font-weight: 600;">Amenities</a>: {{item[9]}}</li>
+      </ul>
+    </div>
+    <div class="divider"></div>
+    <div class="section">
+      <h5 style="font-weight: 1000;">Review</h5>
+      <ul>
+        <li><a style="font-weight: 600;">First review</a>: {{item[14]}}</li>
+        <li><a style="font-weight: 600;">Last review</a>: {{item[15]}}</li>
+        <li><a style="font-weight: 600;">Review scores rating</a> : {{item[16]}}</li>
+        <li><a style="font-weight: 600;">Review scores accuracy</a> : {{item[17]}}</li>
+        <li><a style="font-weight: 600;">Review scores cleanliness</a> : {{item[18]}}</li>
+        <li><a style="font-weight: 600;">Review scores checkin</a> : {{item[19]}}</li>
+        <li><a style="font-weight: 600;">Review scores communication</a> : {{item[20]}}</li>
+        <li><a style="font-weight: 600;">Review scores location</a> : {{item[21]}}</li>
+        <li><a style="font-weight: 600;">Review scores value</a> : {{item[22]}}</li>
+
+      </ul>
+    </div>
+    <div class="divider"></div>
+    <div class="section">
+      <h5 style="font-weight: 1000;">Room Location</h5>
+      <ul>
+        <li><a style="font-weight: 600;">Location</a>: {{item[12]}}</li>
+        <li><a style="font-weight: 600;">Neighbourhood</a> : {{item[13]}}</li>
+      </ul>
+    </div>
+    <div class="divider"></div>
+    <div class="section">
+      <h5 style="color: red;font-weight: 1000;">Regional criminal incidents</h5>
+      <table  class="striped">
+        <thead>
+          <tr>
+      <th>Crime type</th>
+      <th>Quantity</th>
+          </tr>
+        </thead>
+      {% for citem in criminal %}
+        <tr>
+        <td>{{ citem[0] }} </td>
+        <td>{{ citem[1] }} </td>
+      </tr>
+      {% endfor %}
+      </table>
+
+    </div>
+    <div class="divider"></div>
+
+    <div class="section">
+
+
+    </div>  
+  </div>   <!-- Col -->
+
+  <div class="col s6">
+    <img class="responsive-img"  src="{{item[3]}}">
+  </div>
+    
+</div>
+    
+{% endblock content %}
